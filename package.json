@@ -1,0 +1,17 @@
+{
+  "name": "demo-my",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.2"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6"
+  }
+}
